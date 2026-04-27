@@ -1,6 +1,8 @@
 # Assembly-Traffic-Light
 This is a traffic light simulator implemented using AVR assembly language, running on an Arduino Uno R3 (ATmega328p). This project features a full state machine, a crosswalk button, an ON/OFF button, and five LED outputs.
 
+NOTE: Refer to the demos and assets folder for video demos and pictures of the project.
+
 **Team:** Simon Mekhail & Daniel Waterman
 
 ---
